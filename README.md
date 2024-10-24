@@ -2,18 +2,10 @@
 > This repository is a collection of all my practice python projects.
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
-
+  
 
 ## Technologies Used
 - I use python 3.11.9
